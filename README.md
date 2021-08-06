@@ -10,7 +10,11 @@ if they do, you just need to do some simple modifications like using .find() met
 check puppeteer or cheerio documentry for more info
 
 required node modules:
+
 npm init
+
 npm install puppeteer
+
 npm install cheerio
+
 npm install request-promise
