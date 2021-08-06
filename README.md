@@ -8,3 +8,9 @@ in this case we assume that elements of the website are stable and won't be movi
 if they do, you just need to do some simple modifications like using .find() method
 
 check puppeteer or cheerio documentry for more info
+
+required node modules:
+npm init
+npm install puppeteer
+npm install cheerio
+npm install request-promise
