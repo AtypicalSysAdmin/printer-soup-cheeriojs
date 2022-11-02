@@ -1,4 +1,4 @@
-# printer-soup-js
+# printer-soup-cheerio
 How to simply scrape the printer's embedded server with its ip address
 
 this is a simple short code that you need to modify the selectors according to your printer's hub
